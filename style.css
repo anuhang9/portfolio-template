@@ -434,6 +434,11 @@ footer div div p, p a{
         margin-top: 100px;
     }
     /* about section  */
+    .about-text div{
+        margin: 100px;
+        padding: 100px;
+        text-align: justify;
+    }
     .about .about-text{
         display: flex;
         flex-direction: column;
